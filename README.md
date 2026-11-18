@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ctrl Alt Next — ABTalks AI Hackathon (PS1)
 
 ## Project
@@ -70,3 +71,6 @@ npm run start  # serve the production build
 
 ### Stack (ADR-003)
 Next.js 15 App Router · TypeScript · Tailwind CSS v4 · shadcn/ui (radix, nova preset) · Framer Motion · Lucide React. Deploy target: Vercel. Data: local mock files under `data/`.
+=======
+# MainProAK
+>>>>>>> 5a04ea000d6b82fa6e574ed00d59674737edcea0
